@@ -1,3 +1,3 @@
 # Test
 ## Describe
-- hello, this is my first create repersitory!
+- hello, this is my first created repersitory!
